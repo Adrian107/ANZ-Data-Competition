@@ -1,2 +1,3 @@
 # ANZ-Data-Competition
-Top ten of eighty-two teams
+
+Ranked in **top ten** of *eighty-two teams*
